@@ -4,7 +4,8 @@
 
 ## 🏆 About Me
 
-I am a passionate software developer with expertise in C and Python, and a lot of experience in Unity projects. As a student at EPITECH Mulhouse, I continuously strive to expand my knowledge and apply it to solve real-world problems.
+I am a passionate software developer with expertise in **C** and **Python**, and a lot of experience in Unity projects.
+As a student at **EPITECH Mulhouse**, I continuously strive to expand my knowledge and apply it to solve real-world problems.
 
 ## 🛠️ Skills
 
@@ -15,18 +16,17 @@ I am a passionate software developer with expertise in C and Python, and a lot o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralProg&layout=compact&theme=radical)
 
-### Game Development
+### Tools and Platforms
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
 
-### Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## 🚀 Projects
-[View my starred projects](https://github.com/NeuralProg?tab=stars)
+[![Starred Projects](https://img.shields.io/badge/Starred_Projects-⭐-blue)](https://github.com/NeuralProg?tab=stars)
 
 ## 📫 Connect with Me
 
