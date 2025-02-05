@@ -24,6 +24,7 @@ As a student at **EPITECH Mulhouse**, I continuously strive to expand my knowled
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🚀 Projects
 [![Starred Projects](https://img.shields.io/badge/Starred_Projects-⭐-blue)](https://github.com/NeuralProg?tab=stars)
