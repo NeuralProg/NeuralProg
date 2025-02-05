@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NeuralProg&style=flat-square)
 
-## About Me
+## 🏆 About Me
 
 I am a passionate software developer with expertise in C and Python, and a lot of experience in Unity projects. As a student at EPITECH Mulhouse, I continuously strive to expand my knowledge and apply it to solve real-world problems.
 
-## Skills
+## 🛠️ Skills
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -25,10 +25,10 @@ I am a passionate software developer with expertise in C and Python, and a lot o
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Projects
+## 🚀 Projects
 [View my starred projects](https://github.com/NeuralProg?tab=stars)
 
-## Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-toison-chabane)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yann.toison-chabane@epitech.eu)
