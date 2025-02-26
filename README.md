@@ -1,4 +1,4 @@
-# Hi there, I'm NeuralProg 👋
+# Hi there, I'm Yann Toison-Chabane 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NeuralProg&style=flat-square)
 
